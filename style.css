@@ -19,10 +19,12 @@ body {
   color: white;
   font-size: 2.5rem;
   margin-bottom: 1rem;
+  text-align: center;
 }
 
 .charBoxes {
   display: flex;
+  max-width: 100vw;
 }
 
 .charBox {
@@ -43,6 +45,7 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 3rem;
+  max-width: 100%;
 }
 
 .buttons {
