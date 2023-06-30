@@ -1,1 +1,1 @@
-# name_spinner
+# T-O-szto
